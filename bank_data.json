@@ -1,0 +1,45 @@
+{
+    "employees": [
+        {
+            "name": "John Doe",
+            "age": 30,
+            "position": "Teller",
+            "hourly_rate": 15.0,
+            "days_employed": 0,
+            "employee_rating": 5.0,
+            "hours_worked_week": 0
+        },
+        {
+            "name": "Jane Smith",
+            "age": 25,
+            "position": "Manager",
+            "hourly_rate": 25.0,
+            "days_employed": 0,
+            "employee_rating": 5.0,
+            "hours_worked_week": 0
+        }
+    ],
+    "customers": [
+        {
+            "name": "Alice Brown",
+            "age": 28,
+            "balance": 5000.0,
+            "monthly_income": 3000.0,
+            "transactions": [],
+            "loans": [],
+            "credit_cards": []
+        },
+        {
+            "name": "Bob White",
+            "age": 35,
+            "balance": 10000.0,
+            "monthly_income": 4000.0,
+            "transactions": [],
+            "loans": [],
+            "credit_cards": []
+        }
+    ],
+    "current_day": 1,
+    "day_of_week": 0,
+    "balance": 0.0
+}
